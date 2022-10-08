@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 echo ALX
 ALX
+=======
+#!/bin/bash
+<<<<<<< HEAD
+ALX School is so cool!
+=======
+ALX School
+>>>>>>> update_script
+>>>>>>> e23b2fe85e090d494efadacaf18e0ddac2694c8d
